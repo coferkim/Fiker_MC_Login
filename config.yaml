@@ -1,0 +1,5 @@
+id: '2668352705'
+sauth:
+  sauth_json: '{"gameid":"a50","login_channel":"netease","app_channel":"netease.allysdk3rd","platform":"pc","sdkuid":"aebgcvxvfjp5pvxn","sessionid":"1-eyJzaSI6ICI2MDFhMThiZDExYzA5MDg3MWU3ZWY5NjczNDI5N2U5ZjJiNTA2MWY1IiwgInMiOiAiNjZlYzM1YWM5YzZiYzVkNGU3ZDQzMGU3ZTc5YWM3Y2E5NzBlNDEiLCAiZ19pIjogImFlY2dsZjZlZTRhYWFhcnoiLCAidCI6IDEsICJwcnMiOiAzMCwgInNhIjogLTksICJtcHMiOiAiW21wXS0yYm9lYWFwMnZudjgwajh1ZXV0Nm9kemJhaGxuYTUyay1jMjc3NGQ2YmJmNGQ1NWY5NGJhYmI5MjBmMjhmYThkYzY1ZTA2ZGRiIn0g","sdk_version":"4.17.2","udid":"28A624B28449AFCA4CF414781259A0C4","deviceid":"amawt7qaaxsexrrh-d","aim_info":"{\"code_1\":{\"code\":\"AS\",\"names\":{\"en\":\"Asia\"}},\"code_2\":{\"iso_code\":\"CN\",\"names\":{\"en\":\"China\"}},\"code_3\":{\"iso_code\":\"43\",\"names\":{\"en\":\"Hunan\"}},\"code_4\":{\"id\":4302,\"names\":{\"en\":\"Zhuzhou\"}},\"isp\":{\"id\":10086,\"names\":{\"en\":\"\"}},\"aim\":\"120.227.217.25\",\"country\":\"CN\",\"tz\":\"+0800\",\"tzid\":\"\"}","client_login_sn":"E2806C911E4916548EE6DA3132BD1ABA","gas_token":"","source_platform":"pc","ip":"120.227.217.25","get_access_token":"1"}'
+  state: ''
+sead: pKGLp7OCpm1w0ZKc

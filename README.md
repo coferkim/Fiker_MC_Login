@@ -1,3 +1,13 @@
+# ⚠️ 已弃用 / DEPRECATED
+
+> **本项目已弃用，不再维护。**
+>
+> 请移至新项目：**[https://github.com/coferkim/Minecraft-Link](https://github.com/coferkim/Minecraft-Link)**
+>
+> 此仓库仅保留供历史参考，不再接受新功能、修复或支持请求。建议所有现有用户尽快迁移至新项目。
+
+---
+
 # Fiker MC Login
 
 基于 **FastAPI** 的 Minecraft 中国版登录认证与好友查询服务。
@@ -45,3 +55,7 @@ Fiker_MC_Login-main/
 ## 许可证
 
 仓库当前未提供 `LICENSE` 文件。
+
+---
+
+**迁移提示**：新项目的地址为 `https://github.com/coferkim/Minecraft-Link`，后续更新与维护均在该仓库进行。
